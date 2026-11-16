@@ -1,18 +1,23 @@
 # Hi, I'm Gilad 👋
 
-Computer Science student passionate about software development, data-driven systems, and building real-world applications.
+I'm completing a B.Sc. in Computer Science at HIT (GPA 93) and work as a NOC Controller,
+where I investigate technical incidents until I find the root cause.
+I enjoy building things step by step and testing them properly along the way.
 
-## 🚀 What I'm working on
- Building real-world software and data projects
- Strengthening problem-solving and system design skills
+## 📌 Projects
 
-## 🛠 Skills (growing)
- Java, Python, SQL
- Git & GitHub
- Software development fundamentals
- Data & system-oriented thinking
+- **[connect-four-solver](https://github.com/gilad-benshlomo/connect-four-solver)**
+  A perfect-play Connect Four solver in TypeScript, with 60+ unit tests and a CI pipeline on GitHub Actions.
+- **[ShiftSync](https://github.com/gilad-benshlomo/ShiftSync)**
+  A collaborative shift-management system in Java, built together with a partner.
 
-## 🔗 Links
- LinkedIn: https://www.linkedin.com/in/gilad-ben-shlomo-85b6303a2/
+## 🛠️ Skills
 
+- **Languages:** Python, TypeScript, Java, SQL, C#
+- **Testing:** Unit testing (Vitest), CI with GitHub Actions
+- **Tools:** Git, GitHub, Linux, Jira
 
+## 🔗 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/gilad-ben-shlomo/)
+- benshlomogilad@gmail.com
